@@ -1,0 +1,11 @@
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\bin\Release\ProjectPart2.exe.config
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\bin\Release\ProjectPart2.exe
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\bin\Release\ProjectPart2.pdb
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.csproj.AssemblyReference.cache
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.Form1.resources
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.Properties.Resources.resources
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.csproj.GenerateResource.cache
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.csproj.CoreCompileInputs.cache
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.exe
+C:\Users\dharm\source\repos\ProjectPart2\ProjectPart2\obj\Release\ProjectPart2.pdb
